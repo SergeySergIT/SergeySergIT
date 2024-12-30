@@ -5,6 +5,7 @@
 - 📫 How to reach me sergeysssccc@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Замерзшая матрица](https://github.com/user-attachments/assets/f92d34ae-44cf-45b5-8f76-be8934928825)
 
 <!---
 SergeySergIT/SergeySergIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
